@@ -19,18 +19,11 @@ cloud:
     stack:
       auto: false
     credentials:
-      access-key: AKIAZPSNNS7UL27G4QGY
-      secret-key: 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
+      access-key: 
+      secret-key: 
     end-point:
       uri: https://sqs.us-east-2.amazonaws.com/651923658728/Notification-queue
 
-
-
-      #  datasource:
-      #    url: jdbc:mysql://database-1-instance-1.cz72nhjogmiv.us-east-2.rds.amazonaws.com
-      #    username: rootroot
-      #    password: rootroot
-      #    driverClassName: com.mysql.cj.jdbc.Driver
 
 
 
